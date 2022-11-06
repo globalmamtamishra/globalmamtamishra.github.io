@@ -52,10 +52,13 @@ body.lock-scroll {
 #softskillPage{
   width: 300px;
   border: 1px solid green;
-  padding: 30px;
-  margin: -10px;
-  margin-left: 200px;
+  padding: 40px;
+  margin: -10px; 
+  margin-left: 100px;
   height: 300px;
+
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  line-height:40px;
 
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   line-height:40px;
