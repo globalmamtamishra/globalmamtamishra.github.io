@@ -52,13 +52,10 @@ body.lock-scroll {
 #softskillPage{
   width: 300px;
   border: 1px solid green;
-  padding: 40px;
+  padding: 50px;
   margin: -10px; 
-  margin-left: 200px;
+  margin-left: 400px;
   height: 300px;
-
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
-  line-height:40px;
 
   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   line-height:40px;
@@ -856,7 +853,7 @@ nav {
     top: 5%;
   }
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 600px) {
   #intro .intro-content .intro-text {
     margin-left: 1.5rem;
   }
@@ -978,14 +975,14 @@ nav {
 .circle{
   border-radius: 50%;
 }
-
+/* @media screen and (max-width: 400px) { */
 .gitstatus{
-  width: 1000px; 
+  width:800px; 
    /* border: 15px solid green;  */
    
 
    /* //margin-top:-80px; */
-  margin: 300px; 
+  margin: 500px; 
 
    /* height: 400px;  */
 
@@ -994,3 +991,4 @@ nav {
 .status{
   margin-top:80px;
 }
+/* } */
