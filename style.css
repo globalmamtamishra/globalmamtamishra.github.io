@@ -816,9 +816,7 @@ nav {
   #intro .intro-content {
     grid-template-columns: 100%;
   }
-  #intro .intro-content .intro-img img {
-
-  }
+  
   #intro .intro-content .intro-text p {
     width: 50%;
   }
