@@ -1,4 +1,4 @@
-# geetamakadi123.github.io
+# globalmamtamishra.github.io
 
 # MyPortfolio
 Digital representation of my best works including my skills, some best projects out of those Which i have done in construct week of Masai School and some of my personal details.
@@ -14,7 +14,7 @@ Digital representation of my best works including my skills, some best projects 
 
 # **🔗 Deployed Link**
 
-_This project is deployed on netlify here - [My Portfolio ](https://geetamakadi123.github.io/)_
+<!-- _This project is deployed on netlify here - [My Portfolio ](https://geetamakadi123.github.io/)_
 ___
-
+ -->
 
