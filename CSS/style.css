@@ -425,6 +425,8 @@ section#ProjectPage{
 /*     box-shadow: 0 5px 35px rgba(0, 0, 0, 15); */
     padding-top: 5%;
     padding-bottom: 5%;
+    align-items: center;
+    
 }
 .contactus .title{
     
