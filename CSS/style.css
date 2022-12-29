@@ -422,7 +422,7 @@ section#ProjectPage{
 
 /* Contact Page */
 #contact{
-    box-shadow: 0 5px 35px rgba(0, 0, 0, 15);
+/*     box-shadow: 0 5px 35px rgba(0, 0, 0, 15); */
     padding-top: 5%;
     padding-bottom: 5%;
 }
@@ -453,7 +453,7 @@ section#ProjectPage{
 .contact{
     padding: 40px;
     background-color: var(--dark);
-    box-shadow: 0 5px 35px rgba(0, 0, 0, 15);
+/*     box-shadow: 0 5px 35px rgba(0, 0, 0, 15); */
 
 }
 .box{
